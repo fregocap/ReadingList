@@ -1,2 +1,3 @@
 - *Inside The Black Box*, **Rishi K. Narang**
 - *The Happiness Equation*, **Neil Pasricha**
+- *L'etrange beaute des matematiques*, **David Ruelle**
