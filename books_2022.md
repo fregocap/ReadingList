@@ -1,4 +1,5 @@
 - *Inside The Black Box*, **Rishi K. Narang**
 - *The Happiness Equation*, **Neil Pasricha**
 - *L'etrange beaute des matematiques*, **David Ruelle**
-- *Scary Smart*, Go Gawdat
+- *Scary Smart*, **Go Gawdat**
+- *The Man Who Solved the Market*, **Greg Zuckerman**
