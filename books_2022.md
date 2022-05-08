@@ -3,3 +3,4 @@
 - *L'etrange beaute des matematiques*, **David Ruelle**
 - *Scary Smart*, **Go Gawdat**
 - *The Man Who Solved the Market*, **Greg Zuckerman**
+- *Deep Work*, **Cal Newport**
