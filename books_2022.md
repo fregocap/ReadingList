@@ -4,3 +4,4 @@
 - *Scary Smart*, **Go Gawdat**
 - *The Man Who Solved the Market*, **Greg Zuckerman**
 - *Deep Work*, **Cal Newport**
+- *Quantitative Trading*, **Ernest Chan**
