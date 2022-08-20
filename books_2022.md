@@ -5,3 +5,4 @@
 - *The Man Who Solved the Market*, **Greg Zuckerman**
 - *Deep Work*, **Cal Newport**
 - *Quantitative Trading*, **Ernest Chan**
+- *Another Now*, **Yanis Varoufakis**
