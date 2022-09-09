@@ -6,5 +6,4 @@
 - *Deep Work*, **Cal Newport**
 - *Quantitative Trading*, **Ernest Chan**
 - *Another Now*, **Yanis Varoufakis**
-- *The Power of Self-Disciple*, **Peter Hollins**
-- 
+- *The Power of Self-Discipline*, **Peter Hollins**
