@@ -8,3 +8,4 @@
 - *Another Now*, **Yanis Varoufakis**
 - *Efficiently Inefficient*, **Lasse Heje Pedersen**
 - *Good Economics for Hard Times*, **Banerjee, Duflo**
+- *The Power of Self-Discipline*, **Peter Hollins**
