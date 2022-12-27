@@ -6,3 +6,5 @@
 - *Deep Work*, **Cal Newport**
 - *Quantitative Trading*, **Ernest Chan**
 - *Another Now*, **Yanis Varoufakis**
+- *Efficiently Inefficient*, **Lasse Heje Pedersen**
+- *Good Economics for Hard Times*, **Banerjee, Duflo**
